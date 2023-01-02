@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+div{
+    font-size: 40px;
+    margin: 10px;
+    height: 150px;
+    border-left: 10px dotted #D0D0FF;
+    padding-left: 10px;
+    width: 100px;
+    background-color: #eeeff2;
+    
+}
+.st3{
+    margin-left: auto;
+    margin-top: auto;
+}
